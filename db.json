@@ -1,0 +1,40 @@
+{
+    "Modal":[
+        {
+            "id": "1",
+            "judul": "Judul 1",
+            "text": "Text 1",
+            "image": "cabin"
+        },
+        {
+            "id": "2",
+            "judul": "Judul 2",
+            "text": "Text 2",
+            "image": "cake"
+        },
+        {
+            "id": "3",
+            "judul": "Judul 3",
+            "text": "Text 3",
+            "image": "circus"
+        },
+        {
+            "id": "4",
+            "judul": "Judul 4",
+            "text": "Text 4",
+            "image": "game"
+        },
+        {
+            "id": "5",
+            "judul": "Judul 5",
+            "text": "Text 5",
+            "image": "safe"
+        },
+        {
+            "id": "6",
+            "judul": "Judul 6",
+            "text": "Text 6",
+            "image": "submarine"
+        }
+    ]
+}
